@@ -1,4 +1,4 @@
-# Flutter Inventory Management App
+# Simple Inventory Management App
 
 A simple inventory management application built with Flutter. This app allows users to scan barcodes, manage inventory items, and update item details such as name and quantity.
 
