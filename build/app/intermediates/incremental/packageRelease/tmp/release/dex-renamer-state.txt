@@ -1,0 +1,4 @@
+#Tue Nov 05 20:35:33 MYT 2024
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\flutter_test_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
