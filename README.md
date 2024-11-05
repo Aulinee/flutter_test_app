@@ -47,4 +47,3 @@ To run this project, you'll need to have Flutter installed on your machine. Foll
 - [Flutter](https://flutter.dev/) - The framework used for building the application.
 - [Sqflite](https://pub.dev/packages/sqflite) - SQLite plugin for Flutter for local database management.
 - [Mobile Scanner](https://pub.dev/packages/mobile_scanner) - A package for barcode scanning functionality.
-- [Barcode](https://pub.dev/packages/barcode) - A package for generating barcodes.
